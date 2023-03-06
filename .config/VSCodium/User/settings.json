@@ -38,4 +38,5 @@
     "python.linting.mypyEnabled": true,
     "git.suggestSmartCommit": false,
     "editor.fontSize": 15,
+    "git.openRepositoryInParentFolders": "never",
 }
