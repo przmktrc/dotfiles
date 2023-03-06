@@ -1,0 +1,9 @@
+Checks:
+  cppcoreguidelines-*
+  performance-*,
+  bugrone-*
+HeaderFilterRegex: ''
+FormatStyle:     none
+CheckOptions:
+ - key:          google-runtime-int.TypeSuffix
+   value:        '_t'
