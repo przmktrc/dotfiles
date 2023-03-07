@@ -37,6 +37,7 @@
     "python.linting.mypyPath": "~/.local/bin/mypy",
     "python.linting.mypyEnabled": true,
     "git.suggestSmartCommit": false,
-    "editor.fontSize": 15,
+    "editor.fontSize": 13,
     "git.openRepositoryInParentFolders": "never",
+    "window.zoomLevel": 1,
 }
